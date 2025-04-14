@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rollcall-vote PUBLIC "-//US Congress//DTDs/vote v1.0 20031119 //EN" "../vote.dtd">
+<?xml-stylesheet type="text/xsl" href="../vote.xsl"?>
+<rollcall-vote>
+<vote-metadata>
+<majority>R</majority>
+<congress>108</congress>
+<session>1st</session>
+<chamber>U.S. House of Representatives</chamber>
+<rollcall-num>670</rollcall-num>
+<legis-num>H R 1</legis-num>
+<vote-question>Table the Motion to Reconsider</vote-question>
+<vote-type>YEA-AND-NAY</vote-type>
+<vote-result>Passed</vote-result>
+<action-date>22-Nov-2003</action-date>
+<action-time time-etz="06:13">6:13 AM</action-time>
+<vote-desc>Medicare Prescription Drug, Improvement, and Modernization Act</vote-desc>
+<vote-totals>
+<totals-by-party-header>
+<party-header>Party</party-header>
+<yea-header>Yeas</yea-header>
+<nay-header>Nays</nay-header>
+<present-header>Answered “Present”</present-header>
+<not-voting-header>Not Voting</not-voting-header>
+</totals-by-party-header>
+<totals-by-party>
+<party>Republican</party>
+<yea-total>209</yea-total>
+<nay-total>2</nay-total>
+<present-total>0</present-total>
+<not-voting-total>18</not-voting-total>
+</totals-by-party>
+<totals-by-party>
+<party>Democratic</party>
+<yea-total>1</yea-total>
+<nay-total>190</nay-total>
+<present-total>0</present-total>
+<not-voting-total>14</not-voting-total>
+</totals-by-party>
+<totals-by-party>
+<party>Independent</party>
+<yea-total>0</yea-total>
+<nay-total>1</nay-total>
+<present-total>0</present-total>
+<not-voting-total>0</not-voting-total>
+</totals-by-party>
+<totals-by-vote>
+<total-stub>Totals</total-stub>
+<yea-total>210</yea-total>
+<nay-total>193</nay-total>
+<present-total>0</present-total>
+<not-voting-total>32</not-voting-total>
+</totals-by-vote>
+</vote-totals>
+</vote-metadata>
+<vote-data>
+<recorded-vote><legislator name-id="A000014" sort-field="Abercrombie" unaccented-name="Abercrombie" party="D" state="HI" role="legislator">Abercrombie</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="A000022" sort-field="Ackerman" unaccented-name="Ackerman" party="D" state="NY" role="legislator">Ackerman</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="A000055" sort-field="Aderholt" unaccented-name="Aderholt" party="R" state="AL" role="legislator">Aderholt</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="A000358" sort-field="Akin" unaccented-name="Akin" party="R" state="MO" role="legislator">Akin</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="A000361" sort-field="Alexander" unaccented-name="Alexander" party="D" state="LA" role="legislator">Alexander</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="A000357" sort-field="Allen" unaccented-name="Allen" party="D" state="ME" role="legislator">Allen</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="A000210" sort-field="Andrews" unaccented-name="Andrews" party="D" state="NJ" role="legislator">Andrews</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001234" sort-field="Baca" unaccented-name="Baca" party="D" state="CA" role="legislator">Baca</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000013" sort-field="Bachus" unaccented-name="Bachus" party="R" state="AL" role="legislator">Bachus</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001229" sort-field="Baird" unaccented-name="Baird" party="D" state="WA" role="legislator">Baird</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000072" sort-field="Baker" unaccented-name="Baker" party="R" state="LA" role="legislator">Baker</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001230" sort-field="Baldwin" unaccented-name="Baldwin" party="D" state="WI" role="legislator">Baldwin</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001238" sort-field="Ballance" unaccented-name="Ballance" party="D" state="NC" role="legislator">Ballance</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000104" sort-field="Ballenger" unaccented-name="Ballenger" party="R" state="NC" role="legislator">Ballenger</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001239" sort-field="Barrett (SC)" unaccented-name="Barrett (SC)" party="R" state="SC" role="legislator">Barrett (SC)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000208" sort-field="Bartlett (MD)" unaccented-name="Bartlett (MD)" party="R" state="MD" role="legislator">Bartlett (MD)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000213" sort-field="Barton (TX)" unaccented-name="Barton (TX)" party="R" state="TX" role="legislator">Barton (TX)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000220" sort-field="Bass" unaccented-name="Bass" party="R" state="NH" role="legislator">Bass</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001240" sort-field="Beauprez" unaccented-name="Beauprez" party="R" state="CO" role="legislator">Beauprez</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000287" sort-field="Becerra" unaccented-name="Becerra" party="D" state="CA" role="legislator">Becerra</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001241" sort-field="Bell" unaccented-name="Bell" party="D" state="TX" role="legislator">Bell</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000403" sort-field="Bereuter" unaccented-name="Bereuter" party="R" state="NE" role="legislator">Bereuter</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001231" sort-field="Berkley" unaccented-name="Berkley" party="D" state="NV" role="legislator">Berkley</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000410" sort-field="Berman" unaccented-name="Berman" party="D" state="CA" role="legislator">Berman</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000420" sort-field="Berry" unaccented-name="Berry" party="D" state="AR" role="legislator">Berry</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001232" sort-field="Biggert" unaccented-name="Biggert" party="R" state="IL" role="legislator">Biggert</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000463" sort-field="Bilirakis" unaccented-name="Bilirakis" party="R" state="FL" role="legislator">Bilirakis</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000490" sort-field="Bishop (GA)" unaccented-name="Bishop (GA)" party="D" state="GA" role="legislator">Bishop (GA)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001242" sort-field="Bishop (NY)" unaccented-name="Bishop (NY)" party="D" state="NY" role="legislator">Bishop (NY)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001250" sort-field="Bishop (UT)" unaccented-name="Bishop (UT)" party="R" state="UT" role="legislator">Bishop (UT)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001243" sort-field="Blackburn" unaccented-name="Blackburn" party="R" state="TN" role="legislator">Blackburn</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000574" sort-field="Blumenauer" unaccented-name="Blumenauer" party="D" state="OR" role="legislator">Blumenauer</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000575" sort-field="Blunt" unaccented-name="Blunt" party="R" state="MO" role="legislator">Blunt</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000586" sort-field="Boehlert" unaccented-name="Boehlert" party="R" state="NY" role="legislator">Boehlert</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000589" sort-field="Boehner" unaccented-name="Boehner" party="R" state="OH" role="legislator">Boehner</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000617" sort-field="Bonilla" unaccented-name="Bonilla" party="R" state="TX" role="legislator">Bonilla</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001244" sort-field="Bonner" unaccented-name="Bonner" party="R" state="AL" role="legislator">Bonner</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001228" sort-field="Bono" unaccented-name="Bono" party="R" state="CA" role="legislator">Bono</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001236" sort-field="Boozman" unaccented-name="Boozman" party="R" state="AR" role="legislator">Boozman</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000652" sort-field="Boswell" unaccented-name="Boswell" party="D" state="IA" role="legislator">Boswell</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000657" sort-field="Boucher" unaccented-name="Boucher" party="D" state="VA" role="legislator">Boucher</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000716" sort-field="Boyd" unaccented-name="Boyd" party="D" state="FL" role="legislator">Boyd</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001246" sort-field="Bradley (NH)" unaccented-name="Bradley (NH)" party="R" state="NH" role="legislator">Bradley (NH)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001227" sort-field="Brady (PA)" unaccented-name="Brady (PA)" party="D" state="PA" role="legislator">Brady (PA)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000755" sort-field="Brady (TX)" unaccented-name="Brady (TX)" party="R" state="TX" role="legislator">Brady (TX)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000944" sort-field="Brown (OH)" unaccented-name="Brown (OH)" party="D" state="OH" role="legislator">Brown (OH)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001235" sort-field="Brown (SC)" unaccented-name="Brown (SC)" party="R" state="SC" role="legislator">Brown (SC)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B000911" sort-field="Brown, Corrine" unaccented-name="Brown, Corrine" party="D" state="FL" role="legislator">Brown, Corrine</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001247" sort-field="Brown-Waite, Ginny" unaccented-name="Brown-Waite, Ginny" party="R" state="FL" role="legislator">Brown-Waite, Ginny</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001248" sort-field="Burgess" unaccented-name="Burgess" party="R" state="TX" role="legislator">Burgess</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001249" sort-field="Burns" unaccented-name="Burns" party="R" state="GA" role="legislator">Burns</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001135" sort-field="Burr" unaccented-name="Burr" party="R" state="NC" role="legislator">Burr</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001149" sort-field="Burton (IN)" unaccented-name="Burton (IN)" party="R" state="IN" role="legislator">Burton (IN)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="B001203" sort-field="Buyer" unaccented-name="Buyer" party="R" state="IN" role="legislator">Buyer</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="C000059" sort-field="Calvert" unaccented-name="Calvert" party="R" state="CA" role="legislator">Calvert</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="C000071" sort-field="Camp" unaccented-name="Camp" party="R" state="MI" role="legislator">Camp</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="C000116" sort-field="Cannon" unaccented-name="Cannon" party="R" state="UT" role="legislator">Cannon</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="C001046" sort-field="Cantor" unaccented-name="Cantor" party="R" state="VA" role="legislator">Cantor</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="C001047" sort-field="Capito" unaccented-name="Capito" party="R" state="WV" role="legislator">Capito</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="C001036" sort-field="Capps" unaccented-name="Capps" party="D" state="CA" role="legislator">Capps</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="C001037" sort-field="Capuano" unaccented-name="Capuano" party="D" state="MA" role="legislator">Capuano</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="C000141" sort-field="Cardin" unaccented-name="Cardin" party="D" state="MD" role="legislator">Cardin</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="C001050" sort-field="Cardoza" unaccented-name="Cardoza" party="D" state="CA" role="legislator">Cardoza</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="C000191" sort-field="Carson (IN)" unaccented-name="Carson (IN)" party="D" state="IN" role="legislator">Carson (IN)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="C001044" sort-field="Carson (OK)" unaccented-name="Carson (OK)" party="D" state="OK" role="legislator">Carson (OK)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="C001051" sort-field="Carter" unaccented-name="Carter" party="R" state="TX" role="legislator">Carter</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="C001055" sort-field="Case" unaccented-name="Case" party="D" state="HI" role="legislator">Case</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="C000243" sort-field="Castle" unaccented-name="Castle" party="R" state="DE" role="legislator">Castle</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="C000266" sort-field="Chabot" unaccented-name="Chabot" party="R" state="OH" role="legislator">Chabot</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="C001052" sort-field="Chocola" unaccented-name="Chocola" party="R" state="IN" role="legislator">Chocola</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="C001049" sort-field="Clay" unaccented-name="Clay" party="D" state="MO" role="legislator">Clay</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="C000537" sort-field="Clyburn" unaccented-name="Clyburn" party="D" state="SC" role="legislator">Clyburn</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="C000556" sort-field="Coble" unaccented-name="Coble" party="R" state="NC" role="legislator">Coble</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="C001053" sort-field="Cole" unaccented-name="Cole" party="R" state="OK" role="legislator">Cole</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="C000640" sort-field="Collins" unaccented-name="Collins" party="R" state="GA" role="legislator">Collins</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="C000714" sort-field="Conyers" unaccented-name="Conyers" party="D" state="MI" role="legislator">Conyers</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="C000754" sort-field="Cooper" unaccented-name="Cooper" party="D" state="TN" role="legislator">Cooper</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="C000794" sort-field="Costello" unaccented-name="Costello" party="D" state="IL" role="legislator">Costello</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="C000830" sort-field="Cox" unaccented-name="Cox" party="R" state="CA" role="legislator">Cox</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="C000868" sort-field="Cramer" unaccented-name="Cramer" party="D" state="AL" role="legislator">Cramer</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="C000873" sort-field="Crane" unaccented-name="Crane" party="R" state="IL" role="legislator">Crane</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="C001045" sort-field="Crenshaw" unaccented-name="Crenshaw" party="R" state="FL" role="legislator">Crenshaw</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="C001038" sort-field="Crowley" unaccented-name="Crowley" party="D" state="NY" role="legislator">Crowley</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="C000962" sort-field="Cubin" unaccented-name="Cubin" party="R" state="WY" role="legislator">Cubin</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="C001048" sort-field="Culberson" unaccented-name="Culberson" party="R" state="TX" role="legislator">Culberson</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="C000984" sort-field="Cummings" unaccented-name="Cummings" party="D" state="MD" role="legislator">Cummings</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="C000994" sort-field="Cunningham" unaccented-name="Cunningham" party="R" state="CA" role="legislator">Cunningham</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000602" sort-field="Davis (AL)" unaccented-name="Davis (AL)" party="D" state="AL" role="legislator">Davis (AL)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000598" sort-field="Davis (CA)" unaccented-name="Davis (CA)" party="D" state="CA" role="legislator">Davis (CA)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000114" sort-field="Davis (FL)" unaccented-name="Davis (FL)" party="D" state="FL" role="legislator">Davis (FL)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000096" sort-field="Davis (IL)" unaccented-name="Davis (IL)" party="D" state="IL" role="legislator">Davis (IL)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000599" sort-field="Davis (TN)" unaccented-name="Davis (TN)" party="D" state="TN" role="legislator">Davis (TN)</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000597" sort-field="Davis, Jo Ann" unaccented-name="Davis, Jo Ann" party="R" state="VA" role="legislator">Davis, Jo Ann</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000136" sort-field="Davis, Tom" unaccented-name="Davis, Tom" party="R" state="VA" role="legislator">Davis, Tom</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000168" sort-field="Deal (GA)" unaccented-name="Deal (GA)" party="R" state="GA" role="legislator">Deal (GA)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000191" sort-field="DeFazio" unaccented-name="DeFazio" party="D" state="OR" role="legislator">DeFazio</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000197" sort-field="DeGette" unaccented-name="DeGette" party="D" state="CO" role="legislator">DeGette</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000210" sort-field="Delahunt" unaccented-name="Delahunt" party="D" state="MA" role="legislator">Delahunt</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000216" sort-field="DeLauro" unaccented-name="DeLauro" party="D" state="CT" role="legislator">DeLauro</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000217" sort-field="DeLay" unaccented-name="DeLay" party="R" state="TX" role="legislator">DeLay</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000595" sort-field="DeMint" unaccented-name="DeMint" party="R" state="SC" role="legislator">DeMint</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000275" sort-field="Deutsch" unaccented-name="Deutsch" party="D" state="FL" role="legislator">Deutsch</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000299" sort-field="Diaz-Balart, L." unaccented-name="Diaz-Balart, L." party="R" state="FL" role="legislator">Diaz-Balart, L.</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000600" sort-field="Diaz-Balart, M." unaccented-name="Diaz-Balart, M." party="R" state="FL" role="legislator">Diaz-Balart, M.</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000327" sort-field="Dicks" unaccented-name="Dicks" party="D" state="WA" role="legislator">Dicks</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000355" sort-field="Dingell" unaccented-name="Dingell" party="D" state="MI" role="legislator">Dingell</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000399" sort-field="Doggett" unaccented-name="Doggett" party="D" state="TX" role="legislator">Doggett</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000424" sort-field="Dooley (CA)" unaccented-name="Dooley (CA)" party="D" state="CA" role="legislator">Dooley (CA)</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000429" sort-field="Doolittle" unaccented-name="Doolittle" party="R" state="CA" role="legislator">Doolittle</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000482" sort-field="Doyle" unaccented-name="Doyle" party="D" state="PA" role="legislator">Doyle</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000492" sort-field="Dreier" unaccented-name="Dreier" party="R" state="CA" role="legislator">Dreier</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000533" sort-field="Duncan" unaccented-name="Duncan" party="R" state="TN" role="legislator">Duncan</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="D000549" sort-field="Dunn" unaccented-name="Dunn" party="R" state="WA" role="legislator">Dunn</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="E000063" sort-field="Edwards" unaccented-name="Edwards" party="D" state="TX" role="legislator">Edwards</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="E000092" sort-field="Ehlers" unaccented-name="Ehlers" party="R" state="MI" role="legislator">Ehlers</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="E000287" sort-field="Emanuel" unaccented-name="Emanuel" party="D" state="IL" role="legislator">Emanuel</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="E000172" sort-field="Emerson" unaccented-name="Emerson" party="R" state="MO" role="legislator">Emerson</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="E000179" sort-field="Engel" unaccented-name="Engel" party="D" state="NY" role="legislator">Engel</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="E000187" sort-field="English" unaccented-name="English" party="R" state="PA" role="legislator">English</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="E000215" sort-field="Eshoo" unaccented-name="Eshoo" party="D" state="CA" role="legislator">Eshoo</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="E000226" sort-field="Etheridge" unaccented-name="Etheridge" party="D" state="NC" role="legislator">Etheridge</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="E000250" sort-field="Evans" unaccented-name="Evans" party="D" state="IL" role="legislator">Evans</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="E000268" sort-field="Everett" unaccented-name="Everett" party="R" state="AL" role="legislator">Everett</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="F000030" sort-field="Farr" unaccented-name="Farr" party="D" state="CA" role="legislator">Farr</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="F000043" sort-field="Fattah" unaccented-name="Fattah" party="D" state="PA" role="legislator">Fattah</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="F000447" sort-field="Feeney" unaccented-name="Feeney" party="R" state="FL" role="legislator">Feeney</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="F000443" sort-field="Ferguson" unaccented-name="Ferguson" party="R" state="NJ" role="legislator">Ferguson</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="F000116" sort-field="Filner" unaccented-name="Filner" party="D" state="CA" role="legislator">Filner</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="F000444" sort-field="Flake" unaccented-name="Flake" party="R" state="AZ" role="legislator">Flake</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="F000441" sort-field="Fletcher" unaccented-name="Fletcher" party="R" state="KY" role="legislator">Fletcher</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="F000238" sort-field="Foley" unaccented-name="Foley" party="R" state="FL" role="legislator">Foley</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="F000445" sort-field="Forbes" unaccented-name="Forbes" party="R" state="VA" role="legislator">Forbes</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="F000262" sort-field="Ford" unaccented-name="Ford" party="D" state="TN" role="legislator">Ford</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="F000440" sort-field="Fossella" unaccented-name="Fossella" party="R" state="NY" role="legislator">Fossella</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="F000339" sort-field="Frank (MA)" unaccented-name="Frank (MA)" party="D" state="MA" role="legislator">Frank (MA)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="F000448" sort-field="Franks (AZ)" unaccented-name="Franks (AZ)" party="R" state="AZ" role="legislator">Franks (AZ)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="F000372" sort-field="Frelinghuysen" unaccented-name="Frelinghuysen" party="R" state="NJ" role="legislator">Frelinghuysen</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="F000392" sort-field="Frost" unaccented-name="Frost" party="D" state="TX" role="legislator">Frost</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="G000021" sort-field="Gallegly" unaccented-name="Gallegly" party="R" state="CA" role="legislator">Gallegly</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="G000548" sort-field="Garrett (NJ)" unaccented-name="Garrett (NJ)" party="R" state="NJ" role="legislator">Garrett (NJ)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="G000132" sort-field="Gephardt" unaccented-name="Gephardt" party="D" state="MO" role="legislator">Gephardt</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="G000549" sort-field="Gerlach" unaccented-name="Gerlach" party="R" state="PA" role="legislator">Gerlach</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="G000152" sort-field="Gibbons" unaccented-name="Gibbons" party="R" state="NV" role="legislator">Gibbons</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="G000180" sort-field="Gilchrest" unaccented-name="Gilchrest" party="R" state="MD" role="legislator">Gilchrest</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="G000210" sort-field="Gillmor" unaccented-name="Gillmor" party="R" state="OH" role="legislator">Gillmor</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="G000550" sort-field="Gingrey" unaccented-name="Gingrey" party="R" state="GA" role="legislator">Gingrey</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="G000544" sort-field="Gonzalez" unaccented-name="Gonzalez" party="D" state="TX" role="legislator">Gonzalez</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="G000280" sort-field="Goode" unaccented-name="Goode" party="R" state="VA" role="legislator">Goode</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="G000289" sort-field="Goodlatte" unaccented-name="Goodlatte" party="R" state="VA" role="legislator">Goodlatte</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="G000309" sort-field="Gordon" unaccented-name="Gordon" party="D" state="TN" role="legislator">Gordon</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="G000336" sort-field="Goss" unaccented-name="Goss" party="R" state="FL" role="legislator">Goss</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="G000377" sort-field="Granger" unaccented-name="Granger" party="R" state="TX" role="legislator">Granger</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="G000546" sort-field="Graves" unaccented-name="Graves" party="R" state="MO" role="legislator">Graves</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="G000410" sort-field="Green (TX)" unaccented-name="Green (TX)" party="D" state="TX" role="legislator">Green (TX)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="G000545" sort-field="Green (WI)" unaccented-name="Green (WI)" party="R" state="WI" role="legislator">Green (WI)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="G000439" sort-field="Greenwood" unaccented-name="Greenwood" party="R" state="PA" role="legislator">Greenwood</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="G000551" sort-field="Grijalva" unaccented-name="Grijalva" party="D" state="AZ" role="legislator">Grijalva</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="G000535" sort-field="Gutierrez" unaccented-name="Gutierrez" party="D" state="IL" role="legislator">Gutierrez</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="G000536" sort-field="Gutknecht" unaccented-name="Gutknecht" party="R" state="MN" role="legislator">Gutknecht</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="H000067" sort-field="Hall" unaccented-name="Hall" party="D" state="TX" role="legislator">Hall</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="H000213" sort-field="Harman" unaccented-name="Harman" party="D" state="CA" role="legislator">Harman</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="H001035" sort-field="Harris" unaccented-name="Harris" party="R" state="FL" role="legislator">Harris</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="H001033" sort-field="Hart" unaccented-name="Hart" party="R" state="PA" role="legislator">Hart</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="H000323" sort-field="Hastert" unaccented-name="Hastert" party="R" state="IL" role="speaker">Hastert</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="H000324" sort-field="Hastings (FL)" unaccented-name="Hastings (FL)" party="D" state="FL" role="legislator">Hastings (FL)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="H000329" sort-field="Hastings (WA)" unaccented-name="Hastings (WA)" party="R" state="WA" role="legislator">Hastings (WA)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="H001029" sort-field="Hayes" unaccented-name="Hayes" party="R" state="NC" role="legislator">Hayes</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="H000413" sort-field="Hayworth" unaccented-name="Hayworth" party="R" state="AZ" role="legislator">Hayworth</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="H000444" sort-field="Hefley" unaccented-name="Hefley" party="R" state="CO" role="legislator">Hefley</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="H001036" sort-field="Hensarling" unaccented-name="Hensarling" party="R" state="TX" role="legislator">Hensarling</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="H000528" sort-field="Herger" unaccented-name="Herger" party="R" state="CA" role="legislator">Herger</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="H001030" sort-field="Hill" unaccented-name="Hill" party="D" state="IN" role="legislator">Hill</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="H000627" sort-field="Hinchey" unaccented-name="Hinchey" party="D" state="NY" role="legislator">Hinchey</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="H000636" sort-field="Hinojosa" unaccented-name="Hinojosa" party="D" state="TX" role="legislator">Hinojosa</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="H000666" sort-field="Hobson" unaccented-name="Hobson" party="R" state="OH" role="legislator">Hobson</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="H001031" sort-field="Hoeffel" unaccented-name="Hoeffel" party="D" state="PA" role="legislator">Hoeffel</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="H000676" sort-field="Hoekstra" unaccented-name="Hoekstra" party="R" state="MI" role="legislator">Hoekstra</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="H000712" sort-field="Holden" unaccented-name="Holden" party="D" state="PA" role="legislator">Holden</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="H001032" sort-field="Holt" unaccented-name="Holt" party="D" state="NJ" role="legislator">Holt</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="H001034" sort-field="Honda" unaccented-name="Honda" party="D" state="CA" role="legislator">Honda</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="H000762" sort-field="Hooley (OR)" unaccented-name="Hooley (OR)" party="D" state="OR" role="legislator">Hooley (OR)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="H000807" sort-field="Hostettler" unaccented-name="Hostettler" party="R" state="IN" role="legislator">Hostettler</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="H000814" sort-field="Houghton" unaccented-name="Houghton" party="R" state="NY" role="legislator">Houghton</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="H000874" sort-field="Hoyer" unaccented-name="Hoyer" party="D" state="MD" role="legislator">Hoyer</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="H000948" sort-field="Hulshof" unaccented-name="Hulshof" party="R" state="MO" role="legislator">Hulshof</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="H000981" sort-field="Hunter" unaccented-name="Hunter" party="R" state="CA" role="legislator">Hunter</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="H001022" sort-field="Hyde" unaccented-name="Hyde" party="R" state="IL" role="legislator">Hyde</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="I000026" sort-field="Inslee" unaccented-name="Inslee" party="D" state="WA" role="legislator">Inslee</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="I000055" sort-field="Isakson" unaccented-name="Isakson" party="R" state="GA" role="legislator">Isakson</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="I000057" sort-field="Israel" unaccented-name="Israel" party="D" state="NY" role="legislator">Israel</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="I000056" sort-field="Issa" unaccented-name="Issa" party="R" state="CA" role="legislator">Issa</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="I000047" sort-field="Istook" unaccented-name="Istook" party="R" state="OK" role="legislator">Istook</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="J000283" sort-field="Jackson (IL)" unaccented-name="Jackson (IL)" party="D" state="IL" role="legislator">Jackson (IL)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="J000032" sort-field="Jackson-Lee (TX)" unaccented-name="Jackson-Lee (TX)" party="D" state="TX" role="legislator">Jackson-Lee (TX)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="J000286" sort-field="Janklow" unaccented-name="Janklow" party="R" state="SD" role="legislator">Janklow</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="J000070" sort-field="Jefferson" unaccented-name="Jefferson" party="D" state="LA" role="legislator">Jefferson</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="J000082" sort-field="Jenkins" unaccented-name="Jenkins" party="R" state="TN" role="legislator">Jenkins</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="J000110" sort-field="John" unaccented-name="John" party="D" state="LA" role="legislator">John</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="J000163" sort-field="Johnson (CT)" unaccented-name="Johnson (CT)" party="R" state="CT" role="legislator">Johnson (CT)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="J000285" sort-field="Johnson (IL)" unaccented-name="Johnson (IL)" party="R" state="IL" role="legislator">Johnson (IL)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="J000126" sort-field="Johnson, E. B." unaccented-name="Johnson, E. B." party="D" state="TX" role="legislator">Johnson, E. B.</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="J000174" sort-field="Johnson, Sam" unaccented-name="Johnson, Sam" party="R" state="TX" role="legislator">Johnson, Sam</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="J000255" sort-field="Jones (NC)" unaccented-name="Jones (NC)" party="R" state="NC" role="legislator">Jones (NC)</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="J000284" sort-field="Jones (OH)" unaccented-name="Jones (OH)" party="D" state="OH" role="legislator">Jones (OH)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="K000008" sort-field="Kanjorski" unaccented-name="Kanjorski" party="D" state="PA" role="legislator">Kanjorski</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="K000009" sort-field="Kaptur" unaccented-name="Kaptur" party="D" state="OH" role="legislator">Kaptur</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="K000361" sort-field="Keller" unaccented-name="Keller" party="R" state="FL" role="legislator">Keller</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="K000078" sort-field="Kelly" unaccented-name="Kelly" party="R" state="NY" role="legislator">Kelly</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="K000358" sort-field="Kennedy (MN)" unaccented-name="Kennedy (MN)" party="R" state="MN" role="legislator">Kennedy (MN)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="K000113" sort-field="Kennedy (RI)" unaccented-name="Kennedy (RI)" party="D" state="RI" role="legislator">Kennedy (RI)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="K000172" sort-field="Kildee" unaccented-name="Kildee" party="D" state="MI" role="legislator">Kildee</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="K000180" sort-field="Kilpatrick" unaccented-name="Kilpatrick" party="D" state="MI" role="legislator">Kilpatrick</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="K000188" sort-field="Kind" unaccented-name="Kind" party="D" state="WI" role="legislator">Kind</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="K000362" sort-field="King (IA)" unaccented-name="King (IA)" party="R" state="IA" role="legislator">King (IA)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="K000210" sort-field="King (NY)" unaccented-name="King (NY)" party="R" state="NY" role="legislator">King (NY)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="K000220" sort-field="Kingston" unaccented-name="Kingston" party="R" state="GA" role="legislator">Kingston</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="K000360" sort-field="Kirk" unaccented-name="Kirk" party="R" state="IL" role="legislator">Kirk</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="K000259" sort-field="Kleczka" unaccented-name="Kleczka" party="D" state="WI" role="legislator">Kleczka</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="K000363" sort-field="Kline" unaccented-name="Kline" party="R" state="MN" role="legislator">Kline</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="K000288" sort-field="Knollenberg" unaccented-name="Knollenberg" party="R" state="MI" role="legislator">Knollenberg</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="K000306" sort-field="Kolbe" unaccented-name="Kolbe" party="R" state="AZ" role="legislator">Kolbe</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="K000336" sort-field="Kucinich" unaccented-name="Kucinich" party="D" state="OH" role="legislator">Kucinich</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000552" sort-field="LaHood" unaccented-name="LaHood" party="R" state="IL" role="legislator">LaHood</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000043" sort-field="Lampson" unaccented-name="Lampson" party="D" state="TX" role="legislator">Lampson</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000559" sort-field="Langevin" unaccented-name="Langevin" party="D" state="RI" role="legislator">Langevin</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000090" sort-field="Lantos" unaccented-name="Lantos" party="D" state="CA" role="legislator">Lantos</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000560" sort-field="Larsen (WA)" unaccented-name="Larsen (WA)" party="D" state="WA" role="legislator">Larsen (WA)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000557" sort-field="Larson (CT)" unaccented-name="Larson (CT)" party="D" state="CT" role="legislator">Larson (CT)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000111" sort-field="Latham" unaccented-name="Latham" party="R" state="IA" role="legislator">Latham</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000553" sort-field="LaTourette" unaccented-name="LaTourette" party="R" state="OH" role="legislator">LaTourette</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000169" sort-field="Leach" unaccented-name="Leach" party="R" state="IA" role="legislator">Leach</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000551" sort-field="Lee" unaccented-name="Lee" party="D" state="CA" role="legislator">Lee</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000263" sort-field="Levin" unaccented-name="Levin" party="D" state="MI" role="legislator">Levin</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000274" sort-field="Lewis (CA)" unaccented-name="Lewis (CA)" party="R" state="CA" role="legislator">Lewis (CA)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000287" sort-field="Lewis (GA)" unaccented-name="Lewis (GA)" party="D" state="GA" role="legislator">Lewis (GA)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000293" sort-field="Lewis (KY)" unaccented-name="Lewis (KY)" party="R" state="KY" role="legislator">Lewis (KY)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000321" sort-field="Linder" unaccented-name="Linder" party="R" state="GA" role="legislator">Linder</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000342" sort-field="Lipinski" unaccented-name="Lipinski" party="D" state="IL" role="legislator">Lipinski</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000554" sort-field="LoBiondo" unaccented-name="LoBiondo" party="R" state="NJ" role="legislator">LoBiondo</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000397" sort-field="Lofgren" unaccented-name="Lofgren" party="D" state="CA" role="legislator">Lofgren</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000480" sort-field="Lowey" unaccented-name="Lowey" party="D" state="NY" role="legislator">Lowey</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000558" sort-field="Lucas (KY)" unaccented-name="Lucas (KY)" party="D" state="KY" role="legislator">Lucas (KY)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000491" sort-field="Lucas (OK)" unaccented-name="Lucas (OK)" party="R" state="OK" role="legislator">Lucas (OK)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="L000562" sort-field="Lynch" unaccented-name="Lynch" party="D" state="MA" role="legislator">Lynch</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M001145" sort-field="Majette" unaccented-name="Majette" party="D" state="GA" role="legislator">Majette</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M000087" sort-field="Maloney" unaccented-name="Maloney" party="D" state="NY" role="legislator">Maloney</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M001138" sort-field="Manzullo" unaccented-name="Manzullo" party="R" state="IL" role="legislator">Manzullo</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="M000133" sort-field="Markey" unaccented-name="Markey" party="D" state="MA" role="legislator">Markey</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M001146" sort-field="Marshall" unaccented-name="Marshall" party="D" state="GA" role="legislator">Marshall</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M001142" sort-field="Matheson" unaccented-name="Matheson" party="D" state="UT" role="legislator">Matheson</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M000249" sort-field="Matsui" unaccented-name="Matsui" party="D" state="CA" role="legislator">Matsui</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M000316" sort-field="McCarthy (MO)" unaccented-name="McCarthy (MO)" party="D" state="MO" role="legislator">McCarthy (MO)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M000309" sort-field="McCarthy (NY)" unaccented-name="McCarthy (NY)" party="D" state="NY" role="legislator">McCarthy (NY)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M001143" sort-field="McCollum" unaccented-name="McCollum" party="D" state="MN" role="legislator">McCollum</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M001147" sort-field="McCotter" unaccented-name="McCotter" party="R" state="MI" role="legislator">McCotter</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="M000388" sort-field="McCrery" unaccented-name="McCrery" party="R" state="LA" role="legislator">McCrery</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="M000404" sort-field="McDermott" unaccented-name="McDermott" party="D" state="WA" role="legislator">McDermott</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M000312" sort-field="McGovern" unaccented-name="McGovern" party="D" state="MA" role="legislator">McGovern</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M000472" sort-field="McHugh" unaccented-name="McHugh" party="R" state="NY" role="legislator">McHugh</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="M000477" sort-field="McInnis" unaccented-name="McInnis" party="R" state="CO" role="legislator">McInnis</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="M000485" sort-field="McIntyre" unaccented-name="McIntyre" party="D" state="NC" role="legislator">McIntyre</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M000508" sort-field="McKeon" unaccented-name="McKeon" party="R" state="CA" role="legislator">McKeon</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="M000590" sort-field="McNulty" unaccented-name="McNulty" party="D" state="NY" role="legislator">McNulty</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M000627" sort-field="Meehan" unaccented-name="Meehan" party="D" state="MA" role="legislator">Meehan</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="M001148" sort-field="Meek (FL)" unaccented-name="Meek (FL)" party="D" state="FL" role="legislator">Meek (FL)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M001137" sort-field="Meeks (NY)" unaccented-name="Meeks (NY)" party="D" state="NY" role="legislator">Meeks (NY)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M000639" sort-field="Menendez" unaccented-name="Menendez" party="D" state="NJ" role="legislator">Menendez</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M000689" sort-field="Mica" unaccented-name="Mica" party="R" state="FL" role="legislator">Mica</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="M001149" sort-field="Michaud" unaccented-name="Michaud" party="D" state="ME" role="legislator">Michaud</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M000714" sort-field="Millender-McDonald" unaccented-name="Millender-McDonald" party="D" state="CA" role="legislator">Millender-McDonald</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M001144" sort-field="Miller (FL)" unaccented-name="Miller (FL)" party="R" state="FL" role="legislator">Miller (FL)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="M001150" sort-field="Miller (MI)" unaccented-name="Miller (MI)" party="R" state="MI" role="legislator">Miller (MI)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="M001154" sort-field="Miller (NC)" unaccented-name="Miller (NC)" party="D" state="NC" role="legislator">Miller (NC)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M001139" sort-field="Miller, Gary" unaccented-name="Miller, Gary" party="R" state="CA" role="legislator">Miller, Gary</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="M000725" sort-field="Miller, George" unaccented-name="Miller, George" party="D" state="CA" role="legislator">Miller, George</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M000844" sort-field="Mollohan" unaccented-name="Mollohan" party="D" state="WV" role="legislator">Mollohan</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M001140" sort-field="Moore" unaccented-name="Moore" party="D" state="KS" role="legislator">Moore</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M000934" sort-field="Moran (KS)" unaccented-name="Moran (KS)" party="R" state="KS" role="legislator">Moran (KS)</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="M000933" sort-field="Moran (VA)" unaccented-name="Moran (VA)" party="D" state="VA" role="legislator">Moran (VA)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M001151" sort-field="Murphy" unaccented-name="Murphy" party="R" state="PA" role="legislator">Murphy</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="M001120" sort-field="Murtha" unaccented-name="Murtha" party="D" state="PA" role="legislator">Murtha</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="M001152" sort-field="Musgrave" unaccented-name="Musgrave" party="R" state="CO" role="legislator">Musgrave</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="M001134" sort-field="Myrick" unaccented-name="Myrick" party="R" state="NC" role="legislator">Myrick</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="N000002" sort-field="Nadler" unaccented-name="Nadler" party="D" state="NY" role="legislator">Nadler</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="N000179" sort-field="Napolitano" unaccented-name="Napolitano" party="D" state="CA" role="legislator">Napolitano</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="N000015" sort-field="Neal (MA)" unaccented-name="Neal (MA)" party="D" state="MA" role="legislator">Neal (MA)</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="N000051" sort-field="Nethercutt" unaccented-name="Nethercutt" party="R" state="WA" role="legislator">Nethercutt</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="N000182" sort-field="Neugebauer" unaccented-name="Neugebauer" party="R" state="TX" role="legislator">Neugebauer</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="N000081" sort-field="Ney" unaccented-name="Ney" party="R" state="OH" role="legislator">Ney</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="N000143" sort-field="Northup" unaccented-name="Northup" party="R" state="KY" role="legislator">Northup</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="N000159" sort-field="Norwood" unaccented-name="Norwood" party="R" state="GA" role="legislator">Norwood</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="N000181" sort-field="Nunes" unaccented-name="Nunes" party="R" state="CA" role="legislator">Nunes</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="N000172" sort-field="Nussle" unaccented-name="Nussle" party="R" state="IA" role="legislator">Nussle</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="O000006" sort-field="Oberstar" unaccented-name="Oberstar" party="D" state="MN" role="legislator">Oberstar</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="O000007" sort-field="Obey" unaccented-name="Obey" party="D" state="WI" role="legislator">Obey</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="O000085" sort-field="Olver" unaccented-name="Olver" party="D" state="MA" role="legislator">Olver</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="O000107" sort-field="Ortiz" unaccented-name="Ortiz" party="D" state="TX" role="legislator">Ortiz</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="O000165" sort-field="Osborne" unaccented-name="Osborne" party="R" state="NE" role="legislator">Osborne</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="O000164" sort-field="Ose" unaccented-name="Ose" party="R" state="CA" role="legislator">Ose</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="O000166" sort-field="Otter" unaccented-name="Otter" party="R" state="ID" role="legislator">Otter</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="O000159" sort-field="Owens" unaccented-name="Owens" party="D" state="NY" role="legislator">Owens</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="O000163" sort-field="Oxley" unaccented-name="Oxley" party="R" state="OH" role="legislator">Oxley</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="P000034" sort-field="Pallone" unaccented-name="Pallone" party="D" state="NJ" role="legislator">Pallone</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="P000096" sort-field="Pascrell" unaccented-name="Pascrell" party="D" state="NJ" role="legislator">Pascrell</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="P000099" sort-field="Pastor" unaccented-name="Pastor" party="D" state="AZ" role="legislator">Pastor</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="P000583" sort-field="Paul" unaccented-name="Paul" party="R" state="TX" role="legislator">Paul</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="P000149" sort-field="Payne" unaccented-name="Payne" party="D" state="NJ" role="legislator">Payne</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="P000588" sort-field="Pearce" unaccented-name="Pearce" party="R" state="NM" role="legislator">Pearce</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="P000197" sort-field="Pelosi" unaccented-name="Pelosi" party="D" state="CA" role="legislator">Pelosi</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="P000587" sort-field="Pence" unaccented-name="Pence" party="R" state="IN" role="legislator">Pence</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="P000258" sort-field="Peterson (MN)" unaccented-name="Peterson (MN)" party="D" state="MN" role="legislator">Peterson (MN)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="P000263" sort-field="Peterson (PA)" unaccented-name="Peterson (PA)" party="R" state="PA" role="legislator">Peterson (PA)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="P000265" sort-field="Petri" unaccented-name="Petri" party="R" state="WI" role="legislator">Petri</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="P000323" sort-field="Pickering" unaccented-name="Pickering" party="R" state="MS" role="legislator">Pickering</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="P000373" sort-field="Pitts" unaccented-name="Pitts" party="R" state="PA" role="legislator">Pitts</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="P000585" sort-field="Platts" unaccented-name="Platts" party="R" state="PA" role="legislator">Platts</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="P000419" sort-field="Pombo" unaccented-name="Pombo" party="R" state="CA" role="legislator">Pombo</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="P000422" sort-field="Pomeroy" unaccented-name="Pomeroy" party="D" state="ND" role="legislator">Pomeroy</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="P000589" sort-field="Porter" unaccented-name="Porter" party="R" state="NV" role="legislator">Porter</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="P000449" sort-field="Portman" unaccented-name="Portman" party="R" state="OH" role="legislator">Portman</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="P000523" sort-field="Price (NC)" unaccented-name="Price (NC)" party="D" state="NC" role="legislator">Price (NC)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="P000555" sort-field="Pryce (OH)" unaccented-name="Pryce (OH)" party="R" state="OH" role="legislator">Pryce (OH)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="P000586" sort-field="Putnam" unaccented-name="Putnam" party="R" state="FL" role="legislator">Putnam</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="Q000016" sort-field="Quinn" unaccented-name="Quinn" party="R" state="NY" role="legislator">Quinn</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000004" sort-field="Radanovich" unaccented-name="Radanovich" party="R" state="CA" role="legislator">Radanovich</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000011" sort-field="Rahall" unaccented-name="Rahall" party="D" state="WV" role="legislator">Rahall</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000033" sort-field="Ramstad" unaccented-name="Ramstad" party="R" state="MN" role="legislator">Ramstad</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000053" sort-field="Rangel" unaccented-name="Rangel" party="D" state="NY" role="legislator">Rangel</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000141" sort-field="Regula" unaccented-name="Regula" party="R" state="OH" role="legislator">Regula</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000571" sort-field="Rehberg" unaccented-name="Rehberg" party="R" state="MT" role="legislator">Rehberg</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000574" sort-field="Renzi" unaccented-name="Renzi" party="R" state="AZ" role="legislator">Renzi</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000170" sort-field="Reyes" unaccented-name="Reyes" party="D" state="TX" role="legislator">Reyes</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000569" sort-field="Reynolds" unaccented-name="Reynolds" party="R" state="NY" role="legislator">Reynolds</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000568" sort-field="Rodriguez" unaccented-name="Rodriguez" party="D" state="TX" role="legislator">Rodriguez</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000575" sort-field="Rogers (AL)" unaccented-name="Rogers (AL)" party="R" state="AL" role="legislator">Rogers (AL)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000395" sort-field="Rogers (KY)" unaccented-name="Rogers (KY)" party="R" state="KY" role="legislator">Rogers (KY)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000572" sort-field="Rogers (MI)" unaccented-name="Rogers (MI)" party="R" state="MI" role="legislator">Rogers (MI)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000409" sort-field="Rohrabacher" unaccented-name="Rohrabacher" party="R" state="CA" role="legislator">Rohrabacher</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000435" sort-field="Ros-Lehtinen" unaccented-name="Ros-Lehtinen" party="R" state="FL" role="legislator">Ros-Lehtinen</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000573" sort-field="Ross" unaccented-name="Ross" party="D" state="AR" role="legislator">Ross</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000462" sort-field="Rothman" unaccented-name="Rothman" party="D" state="NJ" role="legislator">Rothman</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000486" sort-field="Roybal-Allard" unaccented-name="Roybal-Allard" party="D" state="CA" role="legislator">Roybal-Allard</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000487" sort-field="Royce" unaccented-name="Royce" party="R" state="CA" role="legislator">Royce</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000576" sort-field="Ruppersberger" unaccented-name="Ruppersberger" party="D" state="MD" role="legislator">Ruppersberger</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000515" sort-field="Rush" unaccented-name="Rush" party="D" state="IL" role="legislator">Rush</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000577" sort-field="Ryan (OH)" unaccented-name="Ryan (OH)" party="D" state="OH" role="legislator">Ryan (OH)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000570" sort-field="Ryan (WI)" unaccented-name="Ryan (WI)" party="R" state="WI" role="legislator">Ryan (WI)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000566" sort-field="Ryun (KS)" unaccented-name="Ryun (KS)" party="R" state="KS" role="legislator">Ryun (KS)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000005" sort-field="Sabo" unaccented-name="Sabo" party="D" state="MN" role="legislator">Sabo</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="S001156" sort-field="Sanchez, Linda T." unaccented-name="Sanchez, Linda T." party="D" state="CA" role="legislator">Sánchez, Linda T.</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000030" sort-field="Sanchez, Loretta" unaccented-name="Sanchez, Loretta" party="D" state="CA" role="legislator">Sanchez, Loretta</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000033" sort-field="Sanders" unaccented-name="Sanders" party="I" state="VT" role="legislator">Sanders</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000044" sort-field="Sandlin" unaccented-name="Sandlin" party="D" state="TX" role="legislator">Sandlin</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000097" sort-field="Saxton" unaccented-name="Saxton" party="R" state="NJ" role="legislator">Saxton</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="S001145" sort-field="Schakowsky" unaccented-name="Schakowsky" party="D" state="IL" role="legislator">Schakowsky</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="S001150" sort-field="Schiff" unaccented-name="Schiff" party="D" state="CA" role="legislator">Schiff</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="S001151" sort-field="Schrock" unaccented-name="Schrock" party="R" state="VA" role="legislator">Schrock</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="S001157" sort-field="Scott (GA)" unaccented-name="Scott (GA)" party="D" state="GA" role="legislator">Scott (GA)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000185" sort-field="Scott (VA)" unaccented-name="Scott (VA)" party="D" state="VA" role="legislator">Scott (VA)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000244" sort-field="Sensenbrenner" unaccented-name="Sensenbrenner" party="R" state="WI" role="legislator">Sensenbrenner</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000248" sort-field="Serrano" unaccented-name="Serrano" party="D" state="NY" role="legislator">Serrano</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000250" sort-field="Sessions" unaccented-name="Sessions" party="R" state="TX" role="legislator">Sessions</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000275" sort-field="Shadegg" unaccented-name="Shadegg" party="R" state="AZ" role="legislator">Shadegg</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000303" sort-field="Shaw" unaccented-name="Shaw" party="R" state="FL" role="legislator">Shaw</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="S001144" sort-field="Shays" unaccented-name="Shays" party="R" state="CT" role="legislator">Shays</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000344" sort-field="Sherman" unaccented-name="Sherman" party="D" state="CA" role="legislator">Sherman</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="S001146" sort-field="Sherwood" unaccented-name="Sherwood" party="R" state="PA" role="legislator">Sherwood</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000364" sort-field="Shimkus" unaccented-name="Shimkus" party="R" state="IL" role="legislator">Shimkus</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="S001154" sort-field="Shuster" unaccented-name="Shuster" party="R" state="PA" role="legislator">Shuster</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="S001152" sort-field="Simmons" unaccented-name="Simmons" party="R" state="CT" role="legislator">Simmons</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="S001148" sort-field="Simpson" unaccented-name="Simpson" party="R" state="ID" role="legislator">Simpson</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000465" sort-field="Skelton" unaccented-name="Skelton" party="D" state="MO" role="legislator">Skelton</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000480" sort-field="Slaughter" unaccented-name="Slaughter" party="D" state="NY" role="legislator">Slaughter</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000597" sort-field="Smith (MI)" unaccented-name="Smith (MI)" party="R" state="MI" role="legislator">Smith (MI)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000522" sort-field="Smith (NJ)" unaccented-name="Smith (NJ)" party="R" state="NJ" role="legislator">Smith (NJ)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000583" sort-field="Smith (TX)" unaccented-name="Smith (TX)" party="R" state="TX" role="legislator">Smith (TX)</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000510" sort-field="Smith (WA)" unaccented-name="Smith (WA)" party="D" state="WA" role="legislator">Smith (WA)</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000672" sort-field="Snyder" unaccented-name="Snyder" party="D" state="AR" role="legislator">Snyder</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="S001153" sort-field="Solis" unaccented-name="Solis" party="D" state="CA" role="legislator">Solis</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="S001143" sort-field="Souder" unaccented-name="Souder" party="R" state="IN" role="legislator">Souder</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000749" sort-field="Spratt" unaccented-name="Spratt" party="D" state="SC" role="legislator">Spratt</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000810" sort-field="Stark" unaccented-name="Stark" party="D" state="CA" role="legislator">Stark</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000822" sort-field="Stearns" unaccented-name="Stearns" party="R" state="FL" role="legislator">Stearns</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="S000851" sort-field="Stenholm" unaccented-name="Stenholm" party="D" state="TX" role="legislator">Stenholm</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="S001004" sort-field="Strickland" unaccented-name="Strickland" party="D" state="OH" role="legislator">Strickland</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="S001045" sort-field="Stupak" unaccented-name="Stupak" party="D" state="MI" role="legislator">Stupak</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="S001155" sort-field="Sullivan" unaccented-name="Sullivan" party="R" state="OK" role="legislator">Sullivan</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="S001149" sort-field="Sweeney" unaccented-name="Sweeney" party="R" state="NY" role="legislator">Sweeney</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="T000458" sort-field="Tancredo" unaccented-name="Tancredo" party="R" state="CO" role="legislator">Tancredo</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="T000038" sort-field="Tanner" unaccented-name="Tanner" party="D" state="TN" role="legislator">Tanner</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="T000057" sort-field="Tauscher" unaccented-name="Tauscher" party="D" state="CA" role="legislator">Tauscher</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="T000058" sort-field="Tauzin" unaccented-name="Tauzin" party="R" state="LA" role="legislator">Tauzin</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="T000074" sort-field="Taylor (MS)" unaccented-name="Taylor (MS)" party="D" state="MS" role="legislator">Taylor (MS)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="T000067" sort-field="Taylor (NC)" unaccented-name="Taylor (NC)" party="R" state="NC" role="legislator">Taylor (NC)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="T000459" sort-field="Terry" unaccented-name="Terry" party="R" state="NE" role="legislator">Terry</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="T000188" sort-field="Thomas" unaccented-name="Thomas" party="R" state="CA" role="legislator">Thomas</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="T000460" sort-field="Thompson (CA)" unaccented-name="Thompson (CA)" party="D" state="CA" role="legislator">Thompson (CA)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="T000193" sort-field="Thompson (MS)" unaccented-name="Thompson (MS)" party="D" state="MS" role="legislator">Thompson (MS)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="T000238" sort-field="Thornberry" unaccented-name="Thornberry" party="R" state="TX" role="legislator">Thornberry</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="T000260" sort-field="Tiahrt" unaccented-name="Tiahrt" party="R" state="KS" role="legislator">Tiahrt</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="T000462" sort-field="Tiberi" unaccented-name="Tiberi" party="R" state="OH" role="legislator">Tiberi</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="T000266" sort-field="Tierney" unaccented-name="Tierney" party="D" state="MA" role="legislator">Tierney</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="T000461" sort-field="Toomey" unaccented-name="Toomey" party="R" state="PA" role="legislator">Toomey</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="T000326" sort-field="Towns" unaccented-name="Towns" party="D" state="NY" role="legislator">Towns</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="T000463" sort-field="Turner (OH)" unaccented-name="Turner (OH)" party="R" state="OH" role="legislator">Turner (OH)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="T000424" sort-field="Turner (TX)" unaccented-name="Turner (TX)" party="D" state="TX" role="legislator">Turner (TX)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="U000038" sort-field="Udall (CO)" unaccented-name="Udall (CO)" party="D" state="CO" role="legislator">Udall (CO)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="U000039" sort-field="Udall (NM)" unaccented-name="Udall (NM)" party="D" state="NM" role="legislator">Udall (NM)</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="U000031" sort-field="Upton" unaccented-name="Upton" party="R" state="MI" role="legislator">Upton</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="V000128" sort-field="Van Hollen" unaccented-name="Van Hollen" party="D" state="MD" role="legislator">Van Hollen</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="V000081" sort-field="Velazquez" unaccented-name="Velazquez" party="D" state="NY" role="legislator">Velázquez</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="V000108" sort-field="Visclosky" unaccented-name="Visclosky" party="D" state="IN" role="legislator">Visclosky</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="V000127" sort-field="Vitter" unaccented-name="Vitter" party="R" state="LA" role="legislator">Vitter</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="W000791" sort-field="Walden (OR)" unaccented-name="Walden (OR)" party="R" state="OR" role="legislator">Walden (OR)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="W000099" sort-field="Walsh" unaccented-name="Walsh" party="R" state="NY" role="legislator">Walsh</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="W000119" sort-field="Wamp" unaccented-name="Wamp" party="R" state="TN" role="legislator">Wamp</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="W000187" sort-field="Waters" unaccented-name="Waters" party="D" state="CA" role="legislator">Waters</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="W000794" sort-field="Watson" unaccented-name="Watson" party="D" state="CA" role="legislator">Watson</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="W000207" sort-field="Watt" unaccented-name="Watt" party="D" state="NC" role="legislator">Watt</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="W000215" sort-field="Waxman" unaccented-name="Waxman" party="D" state="CA" role="legislator">Waxman</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="W000792" sort-field="Weiner" unaccented-name="Weiner" party="D" state="NY" role="legislator">Weiner</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="W000267" sort-field="Weldon (FL)" unaccented-name="Weldon (FL)" party="R" state="FL" role="legislator">Weldon (FL)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="W000268" sort-field="Weldon (PA)" unaccented-name="Weldon (PA)" party="R" state="PA" role="legislator">Weldon (PA)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="W000273" sort-field="Weller" unaccented-name="Weller" party="R" state="IL" role="legislator">Weller</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="W000314" sort-field="Wexler" unaccented-name="Wexler" party="D" state="FL" role="legislator">Wexler</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="W000413" sort-field="Whitfield" unaccented-name="Whitfield" party="R" state="KY" role="legislator">Whitfield</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="W000437" sort-field="Wicker" unaccented-name="Wicker" party="R" state="MS" role="legislator">Wicker</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="W000789" sort-field="Wilson (NM)" unaccented-name="Wilson (NM)" party="R" state="NM" role="legislator">Wilson (NM)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="W000795" sort-field="Wilson (SC)" unaccented-name="Wilson (SC)" party="R" state="SC" role="legislator">Wilson (SC)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="W000672" sort-field="Wolf" unaccented-name="Wolf" party="R" state="VA" role="legislator">Wolf</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="W000738" sort-field="Woolsey" unaccented-name="Woolsey" party="D" state="CA" role="legislator">Woolsey</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="W000793" sort-field="Wu" unaccented-name="Wu" party="D" state="OR" role="legislator">Wu</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="W000784" sort-field="Wynn" unaccented-name="Wynn" party="D" state="MD" role="legislator">Wynn</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="Y000033" sort-field="Young (AK)" unaccented-name="Young (AK)" party="R" state="AK" role="legislator">Young (AK)</legislator><vote>Not Voting</vote></recorded-vote>
+<recorded-vote><legislator name-id="Y000031" sort-field="Young (FL)" unaccented-name="Young (FL)" party="R" state="FL" role="legislator">Young (FL)</legislator><vote>Yea</vote></recorded-vote>
+</vote-data>
+</rollcall-vote>
