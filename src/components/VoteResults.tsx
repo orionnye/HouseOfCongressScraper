@@ -82,14 +82,14 @@ const VoteResults: React.FC<{ rawXml: string, onVoteDataCalculated: (data: { par
         <li style={{ color: 'var(--color-independent)' }}>Independents: {partyVoteCounts.I}</li>
         <li style={{ color: 'var(--color-other)' }}>Others: {partyVoteCounts.other}</li>
       </ul> */}
-      <h3>Votes by Party and Type</h3>
+      {/* <h3>Votes by Party and Type</h3>
       <ul>
         <li style={{ color: 'var(--color-democrat)' }}>Democrats - Yea: {votePartyCounts.D.yea}, Nay: {votePartyCounts.D.nay}, Not Voting: {votePartyCounts.D.notVoting}</li>
         <li style={{ color: 'var(--color-republican)' }}>Republicans - Yea: {votePartyCounts.R.yea}, Nay: {votePartyCounts.R.nay}, Not Voting: {votePartyCounts.R.notVoting}</li>
         <li style={{ color: 'var(--color-independent)' }}>Independents - Yea: {votePartyCounts.I.yea}, Nay: {votePartyCounts.I.nay}, Not Voting: {votePartyCounts.I.notVoting}</li>
         <li style={{ color: 'var(--color-other)' }}>Others - Yea: {votePartyCounts.other.yea}, Nay: {votePartyCounts.other.nay}, Not Voting: {votePartyCounts.other.notVoting}</li>
-      </ul>
-      <h3>Legislators by Vote Type</h3>
+      </ul> */}
+      {/* <h3>Legislators by Vote Type</h3> */}
       <div style={{ display: 'flex', justifyContent: 'space-between' }}>
         <LegislatorList
           title="Yea"

@@ -113,6 +113,9 @@ dist
 # Docusaurus cache and generated files
 .docusaurus
 
+# React build output
+build/
+
 # Serverless directories
 .serverless/
 

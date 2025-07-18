@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import VoteResults from './VoteResults';
 import CustomPieChartDisplay from './CustomPieChartDisplay';
+import VoteDescription from './VoteDescription';
 
 const Analytics: React.FC<{ rawXml: string }> = ({ rawXml }) => {
   const [voteData, setVoteData] = useState<{ partyVoteCounts: { [key: string]: number }, votePartyCounts: { [key: string]: { yea: number, nay: number, notVoting: number } } } | null>(null);
@@ -44,7 +45,8 @@ const Analytics: React.FC<{ rawXml: string }> = ({ rawXml }) => {
           </div>
         )}
         <div style={{ flex: '1', padding: '10px' }}>
-          <h2>Vote Metrics</h2>
+          <VoteDescription rawXml={rawXml} />
+          {/* <h2>Vote Metrics</h2> */}
           <VoteResults rawXml={rawXml} onVoteDataCalculated={handleVoteDataCalculated} />
         </div>
       </div>

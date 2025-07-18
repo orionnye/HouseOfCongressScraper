@@ -3,6 +3,7 @@ const cors = require('cors');
 const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
+const cheerio = require('cheerio');
 const app = express();
 const port = 5000;
 
@@ -78,6 +79,30 @@ app.get('/files', (req, res) => {
     }
     res.json(files);
   });
+});
+
+app.get('/fetch-vote-html', async (req, res) => {
+  try {
+    const url = 'https://clerk.house.gov/Votes/MemberVotes?Page=2&CongressNum=119&Session=1st#';
+    const response = await axios.get(url);
+    const htmlData = response.data;
+
+    // Load HTML into Cheerio
+    const $ = cheerio.load(htmlData);
+
+    // Extract elements within the div with id="votes"
+    const votesHtml = $('#votes').html();
+    //  console.log(votesHtml.length());
+
+    if (votesHtml) {
+      res.send(votesHtml);
+    } else {
+      res.send('No matching elements found');
+    }
+  } catch (error) {
+    console.error('Error fetching HTML data:', error);
+    res.status(500).send('Error fetching HTML data');
+  }
 });
 
 app.listen(port, () => {
